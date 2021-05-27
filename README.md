@@ -1,7 +1,7 @@
 # hello-world
 This should be something descriptive
 
-Things I like:
+# Things I like:
 Urbit
 Javascript
 HTML
